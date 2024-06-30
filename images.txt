@@ -1,3 +1,3 @@
 alpine
 kasmweb/nginx:1.25.3
-kangkang223/openwrt
+kangkang223/openwrt:z4
