@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+linuxserver/qbittorrent:4.6.5
